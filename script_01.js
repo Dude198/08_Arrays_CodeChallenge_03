@@ -7,7 +7,7 @@
 // "Q" (question) --> "?"  Bist du Max?
 // "E" (exclamation) --> "!"  Ich bin!
 
-// Parameter --> funktion getSentence([ ...], "Q"){ ...}
+// Parameter --> function getSentence([ ...], "Q"){ ...}
 
 
 /*** Funktion mit Array als Parameter */
